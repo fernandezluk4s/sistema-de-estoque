@@ -55,7 +55,7 @@ Este sistema Java foi desenvolvido para gerenciar o estoque de uma loja de roupa
 Sinta-se à vontade para contribuir com este projeto, reportando bugs, sugerindo novas funcionalidades ou enviando pull requests.
 
 ---
-* **Fale comigo:**
+**Fale comigo:**
 
 **Lucas De Almeida Silva Sigolo Fernandes**
 **lukasigolo@gmail.com**
