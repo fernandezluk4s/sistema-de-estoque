@@ -1,0 +1,26 @@
+CAM6012,Camisa preta,300,80.0,Masculino,Camisas
+CAL4268,Calça jeans,300,120.0,Unissex,Calças
+TEN4528,Tênis preto,200,150.0,Unissex,Tênis
+VES3658,Vestido floral,145,180.0,Feminino,Vestidos
+SUE2618,Suéter branco,200,150.0,Unissex,Casacos
+SAI3516,Saia estampada,200,130.0,Feminino,Saias
+BLU2145,Blusa de alcinha,350,70.0,Feminino,Blusas
+JAC7845,Jaqueta jeans,150,200.0,Unissex,Casacos
+MAC1264,Macacão jeans,98,250.0,Feminino,Macacões
+CIN5789,Cinto de couro,499,50.0,Unissex,Acessórios
+COR2519,Corta vento,250,150.0,Unissex,Casacos
+CAM2436,Camisa oversize,200,140.0,Unissex,Camisas
+CAL3157,Calça cargo,148,150.0,Unissex,Calças
+CRO2356,Cropped preto,200,60.0,Feminino,Croppeds
+CAM3289,Camisa muscle,15,120.0,Masculino,Camisas
+MOL1245,Moletom preto,300,120.0,Unissex,Casacos
+CIN1254,Cinto elástico,500,40.0,Unissex,Acessórios
+JAQ5239,Jaqueta de couro,390,300.0,Unissex,Casacos
+SAI3518,Saia tutu,150,100.0,Feminino,Saias
+CAL4270,Legging preta,200,90.0,Feminino,Calças
+ACC1234,Óculos de sol,300,180.0,Unissex,Acessórios
+ACC5678,Bolsa tote,250,150.0,Feminino,Acessórios
+CAL6789,Shorts jeans,180,100.0,Unissex,Calças
+TEN4530,Tênis esportivo,220,145.0,Unissex,Tênis
+TEN4531,Tênis plataforma,250,160.0,Feminino,Tênis
+TEN4532,Tênis casual,280,170.0,Masculino,Tênis

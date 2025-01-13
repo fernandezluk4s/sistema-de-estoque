@@ -1,0 +1,35 @@
+11223344556,Maria da Silva,maria@gmail.com,Feminino,8
+78945612378,Pedro Almeida,pedro@outlook.com,Masculino,20
+98765432109,Ana Souza,ana@hotmail.com,Feminino,12
+56789123456,Carlos Oliveira,carlos@gmail.com,Masculino,5
+34567891234,Luiza Santos,luiza@yahoo.com,Feminino,18
+12345678911,Ana Carolina Silva,anacarolina@outlook.com,Feminino,10
+52142158692,Bruno Santos,brunosantos@gmail.com,Masculino,15
+23152496583,Carla Oliveira,carla@hotmail.com,Feminino,8
+21532514896,Daniel Pereira,daniel@outlook.com,Masculino,22
+21523625145,Érica Almeida,erica@yahoo.com,Feminino,7
+25142369856,Felipe Santos,felipe@gmail.com,Masculino,17
+26350125892,Gabriela Silva,gabriela@hotmail.com,Feminino,25
+52142536897,Henrique Almeida,henrique@outlook.com,Masculino,12
+21523625145,Isabela Oliveira,isabela@yahoo.com,Feminino,8
+25143698696,João Pereira,joao@gmail.com,Masculino,20
+21523625185,Juliana Santos,juliana@hotmail.com,Feminino,5
+21011253697,Leonardo Almeida,leonardo@outlook.com,Masculino,18
+21253256985,Mariana Silva,mariana@yahoo.com,Feminino,10
+26325145987,Nicolas Pereira,nicolas@gmail.com,Masculino,15
+21523625896,Olívia Santos,olivia@hotmail.com,Feminino,15
+21523652145,Pedro Souza,pedro@outlook.com,Masculino,22
+52136254897,Rafaela Almeida,rafaela@yahoo.com,Feminino,19
+21521458965,Samuel Oliveira,samuel@gmail.com,Masculino,13
+25362514879,Tatiana Pereira,tatiana@hotmail.com,Feminino,11
+20123021569,Victor Santos,victor@outlook.com,Masculino,28
+21533625415,Sofia Oliveira,sofia@gmail.com,Feminino,15
+20123625415,Lucas Pereira,lucas@hotmail.com,Masculino,23
+20123652589,Amanda Santos,amanda@outlook.com,Feminino,8
+21263251456,Bruno Silva,bruno@yahoo.com,Masculino,36
+42186543216,Camila Almeida,camila@gmail.com,Feminino,21
+89651246512,Daniel Souza,daniel@hotmail.com,Masculino,17
+21012632599,Érica Oliveira,erica@outlook.com,Feminino,12
+01262548795,Felipe Pereira,felipe@yahoo.com,Masculino,26
+12532495569,Gabriela Santos,gabriela@gmail.com,Feminino,25
+15774387798,Lucas Fernandes,lukasigolo@gmail.com,Masculino,1
